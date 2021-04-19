@@ -41,7 +41,7 @@ import SystemSetting from 'react-native-system-setting';
 import LinearGradient from 'react-native-linear-gradient';
 import Video from 'react-native-video';
 import { formatSeconds } from './utils/formatSeconds';
-import Orientation from 'react-native-orientation-locker';
+import Orientation from 'react-native-orientation';
 import { getMaxdata } from './utils/getMaxdata';
 
 const { height, width } = Dimensions.get('screen');
